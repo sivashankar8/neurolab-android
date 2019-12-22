@@ -22,7 +22,7 @@ This repository holds the Android app for the Neurolab Hardware. We are developi
 
 ## Screenshots
 <table>
-        
+          
   <tr>
   <td>
   <img src="/docs/images/start_screen_1.jpeg" align="top">
